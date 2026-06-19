@@ -61,4 +61,4 @@ jobs:
             -Dsonar.host.url=https://sonarcloud.io \
             -Dsonar.organization=tubesmkdpl \
             -Dsonar.projectKey=tubesmkdpl_tubesmkdpl \
-            -Dsonar.qualitygate.wait=false
+            -Dsonar.qualitygate.wait=true
