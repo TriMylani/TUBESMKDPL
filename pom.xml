@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.laporprestasi</groupId>
 	<artifactId>lapor-prestasi</artifactId>
+	<!-- Testing -->
 	<version>0.0.1</version>
 	<name/>
 	<description/>
